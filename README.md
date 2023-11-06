@@ -1,8 +1,8 @@
-# pksCommunicator
-Ako to rozbehat?
-1.
-python -m venv env
-2.
-./Scripts/activate
-3.
+# pksCommunicator</br>
+Ako to rozbehat?</br>
+1.</br>
+python -m venv env</br>
+2.</br>
+./Scripts/activate</br>
+3.</br>
 ./handler.py
